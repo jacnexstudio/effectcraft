@@ -1,4 +1,4 @@
-# Next Motion
+# Motionex
 
 Gráficos en movimiento y efectos visuales. Parte de la suite Jacnex.
 

@@ -1,4 +1,4 @@
-name: Compilar Next Motion
+name: Compilar Motionex
 
 on:
   workflow_dispatch:
@@ -21,6 +21,6 @@ jobs:
     with:
       proyecto: effectcraft
       upstream: storytold/effectcraft
-      nombre: Next Motion
+      nombre: Motionex
       ref: ${{ inputs.ref }}
       publicar: ${{ inputs.publicar }}
